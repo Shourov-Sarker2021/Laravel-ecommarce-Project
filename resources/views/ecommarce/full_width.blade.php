@@ -323,16 +323,16 @@
                                 </div>
 
                                 <div class="addtocart-btn-wrapper">
-                                    <a href="shop-cart.html" class="text-decoration-none addtocart-btn" title="Add to Cart">
+                                    <a href="{{asset('asset/shop-cart.html')}}" class="text-decoration-none addtocart-btn" title="Add to Cart">
                                         <i class="icons icon-bag"></i>
                                     </a>
                                 </div>
-                                <a href="ajax/shop-product-quick-view.html" class="quick-view text-uppercase font-weight-semibold text-2">
+                                <a href="{{asset('asset/ajax/shop-product-quick-view.html')}}" class="quick-view text-uppercase font-weight-semibold text-2">
                                     QUICK VIEW
                                 </a>
-                                <a href="shop-product-sidebar-left.html">
+                                <a href="{{asset('asset/shop-product-sidebar-left.html')}}">
                                     <div class="product-thumb-info-image">
-                                        <img alt="" class="img-fluid" src="img/products/product-grey-1.jpg">
+                                        <img alt="" class="img-fluid" src="{{asset('asset/img/products/product-grey-1.jpg')}}">
 
                                     </div>
                                 </a>
@@ -340,7 +340,7 @@
                             <div class="d-flex justify-content-between">
                                 <div>
                                     <a href="#" class="d-block text-uppercase text-decoration-none text-color-default text-color-hover-primary line-height-1 text-0 mb-1">electronics</a>
-                                    <h3 class="text-3-5 font-weight-medium font-alternative text-transform-none line-height-3 mb-0"><a href="shop-product-sidebar-right.html" class="text-color-dark text-color-hover-primary">Photo Camera</a></h3>
+                                    <h3 class="text-3-5 font-weight-medium font-alternative text-transform-none line-height-3 mb-0"><a href="{{asset('asset/shop-product-sidebar-right.html')}}" class="text-color-dark text-color-hover-primary">Photo Camera</a></h3>
                                 </div>
                                 <a href="#" class="text-decoration-none text-color-default text-color-hover-dark text-4"><i class="far fa-heart"></i></a>
                             </div>
@@ -381,7 +381,7 @@
                             <div class="d-flex justify-content-between">
                                 <div>
                                     <a href="#" class="d-block text-uppercase text-decoration-none text-color-default text-color-hover-primary line-height-1 text-0 mb-1">accessories</a>
-                                    <h3 class="text-3-5 font-weight-medium font-alternative text-transform-none line-height-3 mb-0"><a href="shop-product-sidebar-right.html" class="text-color-dark text-color-hover-primary">Porto Headphone</a></h3>
+                                    <h3 class="text-3-5 font-weight-medium font-alternative text-transform-none line-height-3 mb-0"><a href="{{asset('asset/shop-product-sidebar-right.html')}}" class="text-color-dark text-color-hover-primary">Porto Headphone</a></h3>
                                 </div>
                                 <a href="#" class="text-decoration-none text-color-default text-color-hover-dark text-4"><i class="far fa-heart"></i></a>
                             </div>
@@ -398,16 +398,16 @@
                             <div class="product-thumb-info border-0 mb-3">
 
                                 <div class="addtocart-btn-wrapper">
-                                    <a href="shop-cart.html" class="text-decoration-none addtocart-btn" title="Add to Cart">
+                                    <a href="{{asset('asset/shop-cart.html')}}" class="text-decoration-none addtocart-btn" title="Add to Cart">
                                         <i class="icons icon-bag"></i>
                                     </a>
                                 </div>
-                                <a href="ajax/shop-product-quick-view.html" class="quick-view text-uppercase font-weight-semibold text-2">
+                                <a href="{{asset('ajax/shop-product-quick-view.html')}}" class="quick-view text-uppercase font-weight-semibold text-2">
                                     QUICK VIEW
                                 </a>
-                                <a href="shop-product-sidebar-left.html">
+                                <a href="{{asset('asset/shop-product-sidebar-left.html')}}">
                                     <div class="product-thumb-info-image">
-                                        <img alt="" class="img-fluid" src="img/products/product-grey-2.jpg">
+                                        <img alt="" class="img-fluid" src="{{asset('asset/img/products/product-grey-2.jpg')}}">
 
                                     </div>
                                 </a>
@@ -415,7 +415,7 @@
                             <div class="d-flex justify-content-between">
                                 <div>
                                     <a href="#" class="d-block text-uppercase text-decoration-none text-color-default text-color-hover-primary line-height-1 text-0 mb-1">sports</a>
-                                    <h3 class="text-3-5 font-weight-medium font-alternative text-transform-none line-height-3 mb-0"><a href="shop-product-sidebar-right.html" class="text-color-dark text-color-hover-primary">Golf Bag</a></h3>
+                                    <h3 class="text-3-5 font-weight-medium font-alternative text-transform-none line-height-3 mb-0"><a href="{{asset('asset/shop-product-sidebar-right.html')}}" class="text-color-dark text-color-hover-primary">Golf Bag</a></h3>
                                 </div>
                                 <a href="#" class="text-decoration-none text-color-default text-color-hover-dark text-4"><i class="far fa-heart"></i></a>
                             </div>
@@ -454,7 +454,7 @@
                             <div class="d-flex justify-content-between">
                                 <div>
                                     <a href="#" class="d-block text-uppercase text-decoration-none text-color-default text-color-hover-primary line-height-1 text-0 mb-1">sports</a>
-                                    <h3 class="text-3-5 font-weight-medium font-alternative text-transform-none line-height-3 mb-0"><a href="shop-product-sidebar-right.html" class="text-color-dark text-color-hover-primary">Workout</a></h3>
+                                    <h3 class="text-3-5 font-weight-medium font-alternative text-transform-none line-height-3 mb-0"><a href="{{asset('asset/shop-product-sidebar-right.html')}}" class="text-color-dark text-color-hover-primary">Workout</a></h3>
                                 </div>
                                 <a href="#" class="text-decoration-none text-color-default text-color-hover-dark text-4"><i class="far fa-heart"></i></a>
                             </div>
@@ -471,16 +471,16 @@
                             <div class="product-thumb-info border-0 mb-3">
 
                                 <div class="addtocart-btn-wrapper">
-                                    <a href="shop-cart.html" class="text-decoration-none addtocart-btn" title="Add to Cart">
+                                    <a href="{{asset('asset/shop-cart.html')}}" class="text-decoration-none addtocart-btn" title="Add to Cart">
                                         <i class="icons icon-bag"></i>
                                     </a>
                                 </div>
-                                <a href="ajax/shop-product-quick-view.html" class="quick-view text-uppercase font-weight-semibold text-2">
+                                <a href="{{asset('ajax/shop-product-quick-view.html')}}" class="quick-view text-uppercase font-weight-semibold text-2">
                                     QUICK VIEW
                                 </a>
-                                <a href="shop-product-sidebar-left.html">
+                                <a href="{{asset('asset/shop-product-sidebar-left.html')}}">
                                     <div class="product-thumb-info-image">
-                                        <img alt="" class="img-fluid" src="img/products/product-grey-4.jpg">
+                                        <img alt="" class="img-fluid" src="{{asset('assset/img/products/product-grey-4.jpg')}}">
 
                                     </div>
                                 </a>
@@ -488,7 +488,7 @@
                             <div class="d-flex justify-content-between">
                                 <div>
                                     <a href="#" class="d-block text-uppercase text-decoration-none text-color-default text-color-hover-primary line-height-1 text-0 mb-1">accessories</a>
-                                    <h3 class="text-3-5 font-weight-medium font-alternative text-transform-none line-height-3 mb-0"><a href="shop-product-sidebar-right.html" class="text-color-dark text-color-hover-primary">Luxury Bag</a></h3>
+                                    <h3 class="text-3-5 font-weight-medium font-alternative text-transform-none line-height-3 mb-0"><a href="{{asset('asset/shop-product-sidebar-right.html')}}" class="text-color-dark text-color-hover-primary">Luxury Bag</a></h3>
                                 </div>
                                 <a href="#" class="text-decoration-none text-color-default text-color-hover-dark text-4"><i class="far fa-heart"></i></a>
                             </div>
@@ -505,16 +505,16 @@
                             <div class="product-thumb-info border-0 mb-3">
 
                                 <div class="addtocart-btn-wrapper">
-                                    <a href="shop-cart.html" class="text-decoration-none addtocart-btn" title="Add to Cart">
+                                    <a href="{{asset('asset/shop-cart.html')}}" class="text-decoration-none addtocart-btn" title="Add to Cart">
                                         <i class="icons icon-bag"></i>
                                     </a>
                                 </div>
-                                <a href="ajax/shop-product-quick-view.html" class="quick-view text-uppercase font-weight-semibold text-2">
+                                <a href="{{asset('ajax/shop-product-quick-view.html')}}" class="quick-view text-uppercase font-weight-semibold text-2">
                                     QUICK VIEW
                                 </a>
-                                <a href="shop-product-sidebar-left.html">
+                                <a href="{{asset('asset/shop-product-sidebar-left.html')}}">
                                     <div class="product-thumb-info-image">
-                                        <img alt="" class="img-fluid" src="img/products/product-grey-5.jpg">
+                                        <img alt="" class="img-fluid" src="{{asset('asset/img/products/product-grey-5.jpg')}}">
 
                                     </div>
                                 </a>
@@ -522,7 +522,7 @@
                             <div class="d-flex justify-content-between">
                                 <div>
                                     <a href="#" class="d-block text-uppercase text-decoration-none text-color-default text-color-hover-primary line-height-1 text-0 mb-1">accessories</a>
-                                    <h3 class="text-3-5 font-weight-medium font-alternative text-transform-none line-height-3 mb-0"><a href="shop-product-sidebar-right.html" class="text-color-dark text-color-hover-primary">Styled Bag</a></h3>
+                                    <h3 class="text-3-5 font-weight-medium font-alternative text-transform-none line-height-3 mb-0"><a href="{{asset('asset/shop-product-sidebar-right.html')}}" class="text-color-dark text-color-hover-primary">Styled Bag</a></h3>
                                 </div>
                                 <a href="#" class="text-decoration-none text-color-default text-color-hover-dark text-4"><i class="far fa-heart"></i></a>
                             </div>
@@ -539,16 +539,16 @@
                             <div class="product-thumb-info border-0 mb-3">
 
                                 <div class="addtocart-btn-wrapper">
-                                    <a href="shop-cart.html" class="text-decoration-none addtocart-btn" title="Add to Cart">
+                                    <a href="{{asset('asset/shop-cart.html')}}" class="text-decoration-none addtocart-btn" title="Add to Cart">
                                         <i class="icons icon-bag"></i>
                                     </a>
                                 </div>
-                                <a href="ajax/shop-product-quick-view.html" class="quick-view text-uppercase font-weight-semibold text-2">
+                                <a href="{{asset('ajax/shop-product-quick-view.html')}}" class="quick-view text-uppercase font-weight-semibold text-2">
                                     QUICK VIEW
                                 </a>
-                                <a href="shop-product-sidebar-left.html">
+                                <a href="{{asset('asset/shop-product-sidebar-left.html')}}">
                                     <div class="product-thumb-info-image">
-                                        <img alt="" class="img-fluid" src="img/products/product-grey-6.jpg">
+                                        <img alt="" class="img-fluid" src="{{asset('asset/img/products/product-grey-6.jpg')}}">
 
                                     </div>
                                 </a>
@@ -556,7 +556,7 @@
                             <div class="d-flex justify-content-between">
                                 <div>
                                     <a href="#" class="d-block text-uppercase text-decoration-none text-color-default text-color-hover-primary line-height-1 text-0 mb-1">hat</a>
-                                    <h3 class="text-3-5 font-weight-medium font-alternative text-transform-none line-height-3 mb-0"><a href="shop-product-sidebar-right.html" class="text-color-dark text-color-hover-primary">Blue Hat</a></h3>
+                                    <h3 class="text-3-5 font-weight-medium font-alternative text-transform-none line-height-3 mb-0"><a href="{{asset('asset/shop-product-sidebar-right.html')}}" class="text-color-dark text-color-hover-primary">Blue Hat</a></h3>
                                 </div>
                                 <a href="#" class="text-decoration-none text-color-default text-color-hover-dark text-4"><i class="far fa-heart"></i></a>
                             </div>
@@ -573,16 +573,16 @@
                             <div class="product-thumb-info border-0 mb-3">
 
                                 <div class="addtocart-btn-wrapper">
-                                    <a href="shop-cart.html" class="text-decoration-none addtocart-btn" title="Add to Cart">
+                                    <a href="{{asset('asset/shop-cart.html')}}" class="text-decoration-none addtocart-btn" title="Add to Cart">
                                         <i class="icons icon-bag"></i>
                                     </a>
                                 </div>
-                                <a href="ajax/shop-product-quick-view.html" class="quick-view text-uppercase font-weight-semibold text-2">
+                                <a href="{{asset('ajax/shop-product-quick-view.html')}}" class="quick-view text-uppercase font-weight-semibold text-2">
                                     QUICK VIEW
                                 </a>
-                                <a href="shop-product-sidebar-left.html">
+                                <a href="{{asset('asset/shop-product-sidebar-left.html')}}">
                                     <div class="product-thumb-info-image">
-                                        <img alt="" class="img-fluid" src="img/products/product-grey-8.jpg">
+                                        <img alt="" class="img-fluid" src="{{asset('asset/img/products/product-grey-8.jpg')}}">
 
                                     </div>
                                 </a>
@@ -590,7 +590,7 @@
                             <div class="d-flex justify-content-between">
                                 <div>
                                     <a href="#" class="d-block text-uppercase text-decoration-none text-color-default text-color-hover-primary line-height-1 text-0 mb-1">accessories</a>
-                                    <h3 class="text-3-5 font-weight-medium font-alternative text-transform-none line-height-3 mb-0"><a href="shop-product-sidebar-right.html" class="text-color-dark text-color-hover-primary">Adventurer Bag</a></h3>
+                                    <h3 class="text-3-5 font-weight-medium font-alternative text-transform-none line-height-3 mb-0"><a href="{{asset('asset/shop-product-sidebar-right.html')}}" class="text-color-dark text-color-hover-primary">Adventurer Bag</a></h3>
                                 </div>
                                 <a href="#" class="text-decoration-none text-color-default text-color-hover-dark text-4"><i class="far fa-heart"></i></a>
                             </div>
@@ -607,16 +607,16 @@
                             <div class="product-thumb-info border-0 mb-3">
 
                                 <div class="addtocart-btn-wrapper">
-                                    <a href="shop-cart.html" class="text-decoration-none addtocart-btn" title="Add to Cart">
+                                    <a href="{{asset('asset/shop-cart.html')}}" class="text-decoration-none addtocart-btn" title="Add to Cart">
                                         <i class="icons icon-bag"></i>
                                     </a>
                                 </div>
-                                <a href="ajax/shop-product-quick-view.html" class="quick-view text-uppercase font-weight-semibold text-2">
+                                <a href="{{asset('ajax/shop-product-quick-view.html')}}" class="quick-view text-uppercase font-weight-semibold text-2">
                                     QUICK VIEW
                                 </a>
-                                <a href="shop-product-sidebar-left.html">
+                                <a href="{{asset('asset/shop-product-sidebar-left.html')}}">
                                     <div class="product-thumb-info-image">
-                                        <img alt="" class="img-fluid" src="img/products/product-grey-9.jpg">
+                                        <img alt="" class="img-fluid" src="{{asset('asset/img/products/product-grey-9.jpg')}}">
 
                                     </div>
                                 </a>
@@ -624,7 +624,7 @@
                             <div class="d-flex justify-content-between">
                                 <div>
                                     <a href="#" class="d-block text-uppercase text-decoration-none text-color-default text-color-hover-primary line-height-1 text-0 mb-1">sports</a>
-                                    <h3 class="text-3-5 font-weight-medium font-alternative text-transform-none line-height-3 mb-0"><a href="shop-product-sidebar-right.html" class="text-color-dark text-color-hover-primary">Baseball Ball</a></h3>
+                                    <h3 class="text-3-5 font-weight-medium font-alternative text-transform-none line-height-3 mb-0"><a href="{{asset('asset/shop-product-sidebar-right.html')}}" class="text-color-dark text-color-hover-primary">Baseball Ball</a></h3>
                                 </div>
                                 <a href="#" class="text-decoration-none text-color-default text-color-hover-dark text-4"><i class="far fa-heart"></i></a>
                             </div>
@@ -689,16 +689,16 @@
                         <div class="product row row-gutter-sm align-items-center mb-4">
                             <div class="col-5 col-lg-5">
                                 <div class="product-thumb-info border-0">
-                                    <a href="shop-product-sidebar-left.html">
+                                    <a href="{{asset('asset/shop-product-sidebar-left.html')}}">
                                         <div class="product-thumb-info-image">
-                                            <img alt="" class="img-fluid" src="img/products/product-grey-6.jpg">
+                                            <img alt="" class="img-fluid" src="{{asset('asset/img/products/product-grey-6.jpg')}}">
                                         </div>
                                     </a>
                                 </div>
                             </div>
                             <div class="col-7 col-lg-7 ms-md-0 ms-lg-0 ps-lg-1 pt-1">
                                 <a href="#" class="d-block text-uppercase text-decoration-none text-color-default text-color-hover-primary line-height-1 text-0 mb-2">hat</a>
-                                <h3 class="text-3-5 font-weight-medium font-alternative text-transform-none line-height-3 mb-0"><a href="shop-product-sidebar-right.html" class="text-color-dark text-color-hover-primary text-decoration-none">Blue Hat</a></h3>
+                                <h3 class="text-3-5 font-weight-medium font-alternative text-transform-none line-height-3 mb-0"><a href="{{asset('asset/shop-product-sidebar-right.html')}}" class="text-color-dark text-color-hover-primary text-decoration-none">Blue Hat</a></h3>
                                 <div title="Rated 5 out of 5">
                                     <input type="text" class="d-none" value="5" title="" data-plugin-star-rating data-plugin-options="{'displayOnly': true, 'color': 'dark', 'size':'xs'}">
                                 </div>
@@ -711,16 +711,16 @@
                         <div class="product row row-gutter-sm align-items-center mb-4">
                             <div class="col-5 col-lg-5">
                                 <div class="product-thumb-info border-0">
-                                    <a href="shop-product-sidebar-left.html">
+                                    <a href="{{asset('asset/shop-product-sidebar-left.html')}}">
                                         <div class="product-thumb-info-image">
-                                            <img alt="" class="img-fluid" src="img/products/product-grey-8.jpg">
+                                            <img alt="" class="img-fluid" src="{{asset('asset/img/products/product-grey-8.jpg')}}">
                                         </div>
                                     </a>
                                 </div>
                             </div>
                             <div class="col-7 col-lg-7 ms-md-0 ms-lg-0 ps-lg-1 pt-1">
                                 <a href="#" class="d-block text-uppercase text-decoration-none text-color-default text-color-hover-primary line-height-1 text-0 mb-2">accessories</a>
-                                <h3 class="text-3-5 font-weight-medium font-alternative text-transform-none line-height-3 mb-0"><a href="shop-product-sidebar-right.html" class="text-color-dark text-color-hover-primary text-decoration-none">Adventurer Bag</a></h3>
+                                <h3 class="text-3-5 font-weight-medium font-alternative text-transform-none line-height-3 mb-0"><a href="{{asset('asset/shop-product-sidebar-right.html')}}" class="text-color-dark text-color-hover-primary text-decoration-none">Adventurer Bag</a></h3>
                                 <div title="Rated 5 out of 5">
                                     <input type="text" class="d-none" value="5" title="" data-plugin-star-rating data-plugin-options="{'displayOnly': true, 'color': 'dark', 'size':'xs'}">
                                 </div>
@@ -733,16 +733,16 @@
                         <div class="product row row-gutter-sm align-items-center mb-4">
                             <div class="col-5 col-lg-5">
                                 <div class="product-thumb-info border-0">
-                                    <a href="shop-product-sidebar-left.html">
+                                    <a href="{{asset('asset/shop-product-sidebar-left.html')}}">
                                         <div class="product-thumb-info-image">
-                                            <img alt="" class="img-fluid" src="img/products/product-grey-9.jpg">
+                                            <img alt="" class="img-fluid" src="{{asset('asset/img/products/product-grey-9.jpg')}}">
                                         </div>
                                     </a>
                                 </div>
                             </div>
                             <div class="col-7 col-lg-7 ms-md-0 ms-lg-0 ps-lg-1 pt-1">
                                 <a href="#" class="d-block text-uppercase text-decoration-none text-color-default text-color-hover-primary line-height-1 text-0 mb-2">sports</a>
-                                <h3 class="text-3-5 font-weight-medium font-alternative text-transform-none line-height-3 mb-0"><a href="shop-product-sidebar-right.html" class="text-color-dark text-color-hover-primary text-decoration-none">Baseball Ball</a></h3>
+                                <h3 class="text-3-5 font-weight-medium font-alternative text-transform-none line-height-3 mb-0"><a href="{{asset('asset/shop-product-sidebar-right.html')}}" class="text-color-dark text-color-hover-primary text-decoration-none">Baseball Ball</a></h3>
                                 <div title="Rated 5 out of 5">
                                     <input type="text" class="d-none" value="5" title="" data-plugin-star-rating data-plugin-options="{'displayOnly': true, 'color': 'dark', 'size':'xs'}">
                                 </div>
