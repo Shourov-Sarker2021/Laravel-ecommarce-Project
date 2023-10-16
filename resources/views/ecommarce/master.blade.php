@@ -72,16 +72,16 @@
 		<script src="{{asset('asset/vendor/jquery.countdown/jquery.countdown.min.js')}}"></script>
 
 		<!-- Theme Base, Components and Settings -->
-		<script src="{{asset('js/theme.js')}}"></script>
+		<script src="{{asset('asset/js/theme.js')}}"></script>
 
 		<!-- Current Page Vendor and Views -->
-		<script src="{{asset('js/views/view.shop.js')}}"></script>
+		<script src="{{asset('asset/js/views/view.shop.js')}}"></script>
 
 		<!-- Theme Custom -->
-		<script src="{{asset('js/custom.js')}}"></script>
+		<script src="{{asset('asset/js/custom.js')}}"></script>
 
 		<!-- Theme Initialization Files -->
-		<script src="{{asset('js/theme.init.js')}}"></script>
+		<script src="{{asset('asset/js/theme.init.js')}}"></script>
 
 	</body>
 </html>

@@ -20,7 +20,7 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/', [ShopController::class, 'shop'])->name('shop');
+Route::get('/shop', [ShopController::class, 'shop'])->name('shop');
 Route::get('/cart', [ShopController::class, 'cart'])->name('cart');
 Route::get('/checkout', [ShopController::class, 'checkout'])->name('checkout');
 Route::get('/order-complete', [ShopController::class, 'orderComplete'])->name('order_complete');

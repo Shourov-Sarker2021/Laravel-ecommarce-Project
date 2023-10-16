@@ -23,7 +23,7 @@
                     </a>
                     <a href="shop-product-sidebar-left.html">
                         <div class="product-thumb-info-image">
-                            <img alt="" class="img-fluid" src="{{ asset('assets/img/products/product-grey-1.jpg') }}">
+                            <img alt="" class="img-fluid" src="{{ asset('asset/img/products/product-grey-1.jpg') }}">
 
                         </div>
                     </a>
@@ -65,9 +65,9 @@
                     </a>
                     <a href="shop-product-sidebar-left.html">
                         <div class="product-thumb-info-image product-thumb-info-image-effect">
-                            <img alt="" class="img-fluid" src="{{ asset('assets/img/products/product-grey-7.jpg') }}">
+                            <img alt="" class="img-fluid" src="{{ asset('asset/img/products/product-grey-7.jpg') }}">
 
-                                <img alt="" class="img-fluid" src="{{ asset('assets/img/products/product-grey-7-2.jpg') }}">
+                                <img alt="" class="img-fluid" src="{{ asset('asset/img/products/product-grey-7-2.jpg') }}">
 
                         </div>
                     </a>
@@ -104,7 +104,7 @@
                     </a>
                     <a href="shop-product-sidebar-left.html">
                         <div class="product-thumb-info-image">
-                            <img alt="" class="img-fluid" src="{{ asset('assets/img/products/product-grey-2.jpg') }}">
+                            <img alt="" class="img-fluid" src="{{ asset('asset/img/products/product-grey-2.jpg') }}">
 
                         </div>
                     </a>
@@ -149,7 +149,7 @@
                     </a>
                     <a href="shop-product-sidebar-left.html">
                         <div class="product-thumb-info-image">
-                            <img alt="" class="img-fluid" src="{{ asset('assets/img/products/product-grey-3.jpg') }}">
+                            <img alt="" class="img-fluid" src="{{ asset('asset/img/products/product-grey-3.jpg') }}">
 
                         </div>
                     </a>
@@ -186,7 +186,7 @@
                     </a>
                     <a href="shop-product-sidebar-left.html">
                         <div class="product-thumb-info-image">
-                            <img alt="" class="img-fluid" src="{{ asset('assets/img/products/product-grey-4.jpg') }}">
+                            <img alt="" class="img-fluid" src="{{ asset('asset/img/products/product-grey-4.jpg') }}">
 
                         </div>
                     </a>
@@ -223,7 +223,7 @@
                     </a>
                     <a href="shop-product-sidebar-left.html">
                         <div class="product-thumb-info-image">
-                            <img alt="" class="img-fluid" src="{{ asset('assets/img/products/product-grey-5.jpg') }}">
+                            <img alt="" class="img-fluid" src="{{ asset('asset/img/products/product-grey-5.jpg') }}">
 
                         </div>
                     </a>
@@ -260,7 +260,7 @@
                     </a>
                     <a href="shop-product-sidebar-left.html">
                         <div class="product-thumb-info-image">
-                            <img alt="" class="img-fluid" src="{{ asset('assets/img/products/product-grey-6.jpg') }}">
+                            <img alt="" class="img-fluid" src="{{ asset('asset/img/products/product-grey-6.jpg') }}">
 
                         </div>
                     </a>
@@ -297,7 +297,7 @@
                     </a>
                     <a href="shop-product-sidebar-left.html">
                         <div class="product-thumb-info-image">
-                            <img alt="" class="img-fluid" src="{{ asset('assets/img/products/product-grey-8.jpg') }}">
+                            <img alt="" class="img-fluid" src="{{ asset('asset/img/products/product-grey-8.jpg') }}">
 
                         </div>
                     </a>
