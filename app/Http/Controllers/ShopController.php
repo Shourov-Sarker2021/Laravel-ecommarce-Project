@@ -21,4 +21,7 @@ class ShopController extends Controller
     public function cart(){
         return view('ecommarce.cart');
     }
+    public function fullWidth(){
+        return view('ecommarce.full_width');
+    }
 }

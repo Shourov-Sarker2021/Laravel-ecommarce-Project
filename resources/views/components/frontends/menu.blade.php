@@ -80,7 +80,7 @@
                                         <a class="dropdown-item dropdown-toggle" href="elements.html">
                                             Elements
                                         </a>
-                                        <ul class="dropdown-menu">
+                                        <!-- <ul class="dropdown-menu">
                                             <li>
                                                 <div class="dropdown-mega-content">
                                                     <div class="row">
@@ -155,13 +155,13 @@
                                                     </div>
                                                 </div>
                                             </li>
-                                        </ul>
+                                        </ul> -->
                                     </li>
                                     <li class="dropdown">
                                         <a class="dropdown-item dropdown-toggle" href="#">
                                             Features
                                         </a>
-                                        <ul class="dropdown-menu">
+                                        <!-- <ul class="dropdown-menu">
                                             <li class="dropdown-submenu">
                                                 <a class="dropdown-item" href="#">Headers</a>
                                                 <ul class="dropdown-menu">
@@ -651,13 +651,13 @@
                                             <li>
                                                 <a class="dropdown-item" href="feature-gdpr.html">GDPR</a>
                                             </li>
-                                        </ul>
+                                        </ul> -->
                                     </li>
                                     <li class="dropdown">
                                         <a class="dropdown-item dropdown-toggle" href="#">
                                             Pages
                                         </a>
-                                        <ul class="dropdown-menu">
+                                        <!-- <ul class="dropdown-menu">
                                             <li class="dropdown-submenu">
                                                 <a class="dropdown-item" href="#">Contact Us</a>
                                                 <ul class="dropdown-menu">
@@ -715,13 +715,13 @@
                                             <li><a class="dropdown-item" href="page-faq.html">FAQ</a></li>
                                             <li><a class="dropdown-item" href="page-login.html">Login / Register</a></li>
                                             <li><a class="dropdown-item" href="page-user-profile.html">User Profile</a></li>
-                                        </ul>
+                                        </ul> -->
                                     </li>
                                     <li class="dropdown">
                                         <a class="dropdown-item dropdown-toggle" href="#">
                                             Portfolio
                                         </a>
-                                        <ul class="dropdown-menu">
+                                        <!-- <ul class="dropdown-menu">
                                             <li class="dropdown-submenu">
                                                 <a class="dropdown-item" href="#">Single Project</a>
                                                 <ul class="dropdown-menu">
@@ -795,13 +795,13 @@
                                                     <li><a class="dropdown-item" href="portfolio-extra-combination-filters.html">Combination Filters</a></li>
                                                 </ul>
                                             </li>
-                                        </ul>
+                                        </ul> -->
                                     </li>
                                     <li class="dropdown">
                                         <a class="dropdown-item dropdown-toggle" href="#">
                                             Blog
                                         </a>
-                                        <ul class="dropdown-menu">
+                                        <!-- <ul class="dropdown-menu">
                                             <li class="dropdown-submenu">
                                                 <a class="dropdown-item" href="#">Large Image</a>
                                                 <ul class="dropdown-menu">
@@ -876,7 +876,7 @@
                                                     <li><a class="dropdown-item" href="blog-post-comments-disqus.html#comments">Disqus Comments</a></li>
                                                 </ul>
                                             </li>
-                                        </ul>
+                                        </ul> -->
                                     </li>
                                     <li class="dropdown">
                                         <a class="dropdown-item dropdown-toggle active" href="#">
@@ -886,7 +886,7 @@
                                             <li class="dropdown-submenu">
                                                 <a class="dropdown-item" href="#">Single Product</a>
                                                 <ul class="dropdown-menu">
-                                                    <li><a class="dropdown-item" href="shop-product-full-width.html">Full Width</a></li>
+                                                    <li><a class="dropdown-item" href="{{Route('full_width')}}">Full Width</a></li>
                                                     <li><a class="dropdown-item" href="shop-product-sidebar-left.html">Left Sidebar</a></li>
                                                     <li><a class="dropdown-item" href="shop-product-sidebar-right.html">Right Sidebar</a></li>
                                                     <li><a class="dropdown-item" href="shop-product-sidebar-left-and-right.html">Left and Right Sidebar</a></li>
@@ -913,16 +913,16 @@
                                             <li class="dropdown-submenu">
                                                 <a class="dropdown-item" href="#">1 Column</a>
                                                 <ul class="dropdown-menu">
-                                                    <li><a class="dropdown-item" href="shop-1-column-full-width.html">Full Width</a></li>
+                                                    <li><a class="dropdown-item" href="{{route('cart')}}">Full Width</a></li>
                                                     <li><a class="dropdown-item" href="shop-1-column-sidebar-left.html">Left Sidebar</a></li>
                                                     <li><a class="dropdown-item" href="shop-1-column-sidebar-right.html">Right Sidebar </a></li>
                                                     <li><a class="dropdown-item" href="shop-1-column-sidebar-left-and-right.html">Left and Right Sidebar</a></li>
                                                 </ul>
                                             </li>
-                                            <li><a class="dropdown-item" href="shop-cart.html">Cart</a></li>
+                                            <li><a class="dropdown-item" href="{{route('cart')}}">Cart</a></li>
                                             <li><a class="dropdown-item" href="shop-login.html">Login</a></li>
-                                            <li><a class="dropdown-item" href="shop-checkout.html">Checkout</a></li>
-                                            <li><a class="dropdown-item" href="shop-order-complete.html">Order Complete</a></li>
+                                            <li><a class="dropdown-item" href="{{route('checkout')}}">Checkout</a></li>
+                                            <li><a class="dropdown-item" href="{{route('order_complete')}}">Order Complete</a></li>
                                         </ul>
                                     </li>
                                     <li class="dropdown ms-lg-auto">
